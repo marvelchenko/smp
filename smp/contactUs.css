@@ -1,0 +1,44 @@
+.navbar-1 ul{
+    display: flex;
+    list-style-type: none;
+}
+
+.navbar-1 ul li{
+    margin-left: 5rem;
+}
+
+.section-2{
+    background: #b6d3d8;
+    height: 100vmin;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.admission{
+    /* background-color: red; */
+    height: 90vmin;
+    width: 90%;
+}
+
+.admission-1{
+    margin-top: 1.5rem;
+    height: 60vmin;
+    width: 100%;
+    background-color: #8BC1C9;
+
+}
+
+.line{
+    width: 100%;
+    height: 2px;
+    background-color: black;
+}
+
+.name{
+    margin: 0.8rem;
+    padding: 0.8rem;
+    
+}
+

@@ -1,0 +1,71 @@
+body{
+    background-color:rgb(22, 124, 155);
+}
+
+.main{
+    display: flex;
+}
+
+.right{
+    width: 50%;
+    height: 100vmin;
+    background-color:rgb(22, 124, 155);
+}
+
+.left{
+    width: 50%;
+    height: 100vmin;
+    background-color: white;
+}
+
+.right-1{
+    width: 100%;
+    height: 50vmin;
+    background-color: rgb(22, 124, 155);
+}
+
+.left-1{
+    width: 100%;
+    height: 50vmin;
+    background-color: white;
+}
+
+.navbar{
+    list-style-type: none;
+    float: right;
+    text-transform: capitalize;
+}
+
+.navbar li{
+    margin-left: 2rem;
+}
+
+.logo img{
+    margin: 1.5rem;
+}
+
+.write{
+    width: 80%;
+    height: 30vmin;
+    display: flex;
+    justify-content: center;
+}
+
+.write-1{
+    width: 80%;
+    height: 40vmin;
+    display: flex;
+    justify-content: center;
+}
+.photo{
+    width: 100%;
+    height: 100vmin;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.photo img{
+    border: 2px solid white;
+    border-radius: 10px;
+}
